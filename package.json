@@ -1,7 +1,7 @@
 {
 	"name": "array.prototype.foreach",
 	"version": "1.0.0",
-	"description": "An ESnext spec-compliant `Array.prototype.forEach` shim/polyfill/replacement that works as far down as ES3.",
+	"description": "An ES spec-compliant `Array.prototype.forEach` shim/polyfill/replacement that works as far down as ES3.",
 	"author": {
 		"name": "Jordan Harband",
 		"email": "ljharb@gmail.com",
@@ -86,7 +86,8 @@
 		"Array.prototype.forEach",
 		"forEach",
 		"array",
-		"ESnext",
+		"ecmascript",
+		"ES",
 		"shim",
 		"polyfill",
 		"es-shim API"
