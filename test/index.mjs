@@ -23,9 +23,9 @@ test('named exports', async (t) => {
 	);
 
 	const { shim, getPolyfill, implementation } = Module;
-	t.equal(await import('array.prototype.foreach/shim'), shim, 'shim named export matches deep export');
-	t.equal(await import('array.prototype.foreach/implementation'), implementation, 'implementation named export matches deep export');
-	t.equal(await import('array.prototype.foreach/polyfill'), getPolyfill, 'getPolyfill named export matches deep export');
+	t.equal((await import('array.prototype.foreach/shim')).default, shim, 'shim named export matches deep export');
+	t.equal((await import('array.prototype.foreach/implementation')).default, implementation, 'implementation named export matches deep export');
+	t.equal((await import('array.prototype.foreach/polyfill')).default, getPolyfill, 'getPolyfill named export matches deep export');
 
 	t.end();
 });
