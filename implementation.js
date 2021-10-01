@@ -4,13 +4,13 @@ var GetIntrinsic = require('get-intrinsic');
 var callBound = require('call-bind/callBound');
 var $TypeError = GetIntrinsic('%TypeError%');
 
-var Call = require('es-abstract/2020/Call');
-var Get = require('es-abstract/2020/Get');
-var HasProperty = require('es-abstract/2020/HasProperty');
-var IsCallable = require('es-abstract/2020/IsCallable');
-var LengthOfArrayLike = require('es-abstract/2020/LengthOfArrayLike');
-var ToObject = require('es-abstract/2020/ToObject');
-var ToString = require('es-abstract/2020/ToString');
+var Call = require('es-abstract/2021/Call');
+var Get = require('es-abstract/2021/Get');
+var HasProperty = require('es-abstract/2021/HasProperty');
+var IsCallable = require('es-abstract/2021/IsCallable');
+var LengthOfArrayLike = require('es-abstract/2021/LengthOfArrayLike');
+var ToObject = require('es-abstract/2021/ToObject');
+var ToString = require('es-abstract/2021/ToString');
 
 var isString = require('is-string');
 
