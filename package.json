@@ -73,8 +73,8 @@
 		"is-string": "^1.0.7"
 	},
 	"devDependencies": {
-		"@es-shims/api": "^2.1.2",
-		"@ljharb/eslint-config": "^17.6.0",
+		"@es-shims/api": "^2.2.1",
+		"@ljharb/eslint-config": "^18.0.0",
 		"aud": "^1.1.5",
 		"auto-changelog": "^2.3.0",
 		"eslint": "^7.32.0",
