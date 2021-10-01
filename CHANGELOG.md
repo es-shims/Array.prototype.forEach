@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.1...v1.0.2) - 2021-10-01
+
+### Commits
+
+- [Deps] update `es-abstract` [`ad43be9`](https://github.com/es-shims/Array.prototype.forEach/commit/ad43be9c8f640ed0c77667cbe658c966d73ebf0f)
+- [readme] fix URLs [`88f6654`](https://github.com/es-shims/Array.prototype.forEach/commit/88f6654212186f82f22a7ae57b91e19e7373f303)
+- [Dev Deps] update `@ljharb/eslint-config`, `@es-shims/api` [`a3e7bdd`](https://github.com/es-shims/Array.prototype.forEach/commit/a3e7bdd0140c3e290549373df7ecacb060976ecd)
+
 ## [v1.0.1](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.0...v1.0.1) - 2021-08-16
 
 ### Commits
