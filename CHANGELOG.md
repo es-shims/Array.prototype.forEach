@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.2...v1.0.3) - 2022-11-02
+
+### Commits
+
+- [actions] reuse common workflows [`e638cf0`](https://github.com/es-shims/Array.prototype.forEach/commit/e638cf0977ccb94b73dbeddf1b7a55af279a1536)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `@es-shims/api`, `safe-publish-latest`, `tape` [`7f9b6e8`](https://github.com/es-shims/Array.prototype.forEach/commit/7f9b6e85c675dfbca8e73ecc87fa74826e2d65df)
+- [actions] update rebase action to use reusable workflow [`7c882be`](https://github.com/es-shims/Array.prototype.forEach/commit/7c882beb3cf43d965d032792d856a207e7c1d70d)
+- [actions] update codecov uploader [`df4cca2`](https://github.com/es-shims/Array.prototype.forEach/commit/df4cca244df702b82c136356b90f88d4949c971e)
+- [Deps] update `es-abstract` [`90e7402`](https://github.com/es-shims/Array.prototype.forEach/commit/90e7402cd5747e6a05a8229faa606daf92f400ab)
+
 ## [v1.0.2](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.1...v1.0.2) - 2021-10-01
 
 ### Commits
