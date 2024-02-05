@@ -1,6 +1,6 @@
 {
 	"name": "array.prototype.foreach",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "An ES spec-compliant `Array.prototype.forEach` shim/polyfill/replacement that works as far down as ES3.",
 	"author": {
 		"name": "Jordan Harband",

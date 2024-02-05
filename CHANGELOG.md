@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.6](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.5...v1.0.6) - 2024-02-04
+
+### Commits
+
+- [Deps] update `call-bind`, `define-properties`, `es-abstract`, `get-intrinsic` [`2513ece`](https://github.com/es-shims/Array.prototype.forEach/commit/2513ece8e622ebeda4e574b4f96766b43dbdf40d)
+- [Refactor] use `es-errors` where possible, so things that only need those do not need `get-intrinsic` [`0b0d47e`](https://github.com/es-shims/Array.prototype.forEach/commit/0b0d47e64572d212b8efc472b4ba27b59f1972ff)
+- [Dev Deps] update `aud`, `tape` [`221fd86`](https://github.com/es-shims/Array.prototype.forEach/commit/221fd862eefcb6f5dca6be15d764bdb4bc6e063e)
+
 ## [v1.0.5](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.4...v1.0.5) - 2023-09-05
 
 ### Commits
