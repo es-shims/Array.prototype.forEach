@@ -3,13 +3,13 @@
 var callBound = require('call-bind/callBound');
 var $TypeError = require('es-errors/type');
 
-var Call = require('es-abstract/2023/Call');
-var Get = require('es-abstract/2023/Get');
-var HasProperty = require('es-abstract/2023/HasProperty');
-var IsCallable = require('es-abstract/2023/IsCallable');
-var LengthOfArrayLike = require('es-abstract/2023/LengthOfArrayLike');
+var Call = require('es-abstract/2024/Call');
+var Get = require('es-abstract/2024/Get');
+var HasProperty = require('es-abstract/2024/HasProperty');
+var IsCallable = require('es-abstract/2024/IsCallable');
+var LengthOfArrayLike = require('es-abstract/2024/LengthOfArrayLike');
 var ToObject = require('es-object-atoms/ToObject');
-var ToString = require('es-abstract/2023/ToString');
+var ToString = require('es-abstract/2024/ToString');
 
 var isString = require('is-string');
 
