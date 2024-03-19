@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.7](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.6...v1.0.7) - 2024-03-19
+
+### Commits
+
+- [meta] remove useless ESM [`ef23d46`](https://github.com/es-shims/Array.prototype.forEach/commit/ef23d46e361833ea345037dd2dfae4a81e21a729)
+- [Deps] update `call-bind`, `es-abstract`, `es-errors` [`c855e3b`](https://github.com/es-shims/Array.prototype.forEach/commit/c855e3b9cf3a5d3aacd09734b6fa125145c8fae4)
+- [actions] remove redundant finisher [`83f3c19`](https://github.com/es-shims/Array.prototype.forEach/commit/83f3c198dc7d6249c752c605f5dd259b301be597)
+- [Refactor] use `es-object-atoms` instead of `es-abstract` [`01a05ac`](https://github.com/es-shims/Array.prototype.forEach/commit/01a05ac3f5fb596b0248873eed8c79a927a1c44c)
+- [Dev Deps] update `aud` [`34a0bc8`](https://github.com/es-shims/Array.prototype.forEach/commit/34a0bc8dbd200b08e7b028bd5bcc330e61919297)
+
 ## [v1.0.6](https://github.com/es-shims/Array.prototype.forEach/compare/v1.0.5...v1.0.6) - 2024-02-04
 
 ### Commits
